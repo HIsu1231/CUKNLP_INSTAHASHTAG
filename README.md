@@ -1,7 +1,7 @@
 # CUKNLP_INSTAHASHTAG
 
 # Model 
-![image](https://user-images.githubusercontent.com/54710010/170878483-251d3172-368e-459b-8cc9-3d5fd43de619.png)
+![image](https://user-images.githubusercontent.com/54710010/170878559-4c5d4f9f-2a80-4d34-ae69-7caa62d60d3c.png)
 
 
 # Demo Page
