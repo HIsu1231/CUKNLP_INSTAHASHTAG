@@ -27,7 +27,7 @@ num_classes = 10
 model = NeuralNet(input_size, hidden_size, num_classes)
 
 PATH="mnist_ffn.pth"
-model.load_state_dict(torch.load(PATH))
+model.load_state_dict(torch.load(PATH, map_location=torch.device('cpu')))
 model.eval()
 
 #image -> tensor
